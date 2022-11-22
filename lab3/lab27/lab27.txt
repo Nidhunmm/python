@@ -1,0 +1,4 @@
+welcome to mashup stack. welcome to mashup stack. welcome to mashupstack
+python
+django
+angular

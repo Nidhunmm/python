@@ -1,0 +1,4 @@
+this is an article on reading text files in Python.
+Python has inbuilt functions to read a text file.
+We can read files in three different ways.
+Create a text file which you will read later.

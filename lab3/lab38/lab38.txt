@@ -1,0 +1,2 @@
+Web development is the process of building, programming, and maintaining websites and web applications. 
+Website developers use various programming languages, like HTML, CSS, and JavaScript, to develop websites and web applications.
